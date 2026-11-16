@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <main className="not-found container"><p className="eyebrow">404 / SIGNAL LOST</p><h1>This signal leads<br/>somewhere else.</h1><Link className="button primary" href="/">Back to the portfolio ↗</Link></main>}
